@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  Hrady4.0.cpp
+  hrady_lib.cpp
+c:\users\ondra\desktop\porno\fekt\chudáček\hrady4.0\hrady_lib.cpp(199): warning C4101: 'vstupne': unreferenced local variable
+c:\users\ondra\desktop\porno\fekt\chudáček\hrady4.0\hrady_lib.cpp(482): warning C4101: 'change2': unreferenced local variable
+c:\users\ondra\desktop\porno\fekt\chudáček\hrady4.0\hrady_lib.cpp(481): warning C4101: 'y_n': unreferenced local variable
+c:\users\ondra\desktop\porno\fekt\chudáček\hrady4.0\hrady_lib.cpp(482): warning C4101: 'change': unreferenced local variable
+c:\users\ondra\desktop\porno\fekt\chudáček\hrady4.0\hrady_lib.cpp(795): warning C4101: 'admin_password': unreferenced local variable
+c:\users\ondra\desktop\porno\fekt\chudáček\hrady4.0\hrady_lib.cpp(834): warning C4101: 'size': unreferenced local variable
+c:\users\ondra\desktop\porno\fekt\chudáček\hrady4.0\hrady_lib.cpp(834): warning C4101: 'adresa_size': unreferenced local variable
+  Generating Code...
+  Hrady4.0.vcxproj -> C:\Users\ondra\Desktop\Porno\FEKT\Chudáček\Debug\Hrady4.0.exe
